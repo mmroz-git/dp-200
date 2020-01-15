@@ -8,6 +8,7 @@
 			"url": "https://raw.githubusercontent.com/djpmsft/adf-ready-demo/master/moviesDB.csv",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
-		}
+		},
+		"description": "a"
 	}
 }
